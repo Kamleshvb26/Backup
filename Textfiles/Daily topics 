@@ -1,0 +1,85 @@
+Day1 :
+
+1. default and delete keyword 
+2. Move semantics 
+3. enum class - enum vs enum class  
+
+Notes:
+
+---------------------------------------------------------------------------------------
+Day2:
+
+1. Smart Pointers (shared_ptr)
+2. RAII (Resource acquisition is initialization) principle 
+
+Notes:
+
+---------------------------------------------------------------------------------------
+Day3:
+
+1. Association between classes
+    a. Basic Association(eg. bank account class and bank operations class)
+    b. Composition(eg. Customer class and Debit card class) 
+    c. Aggregation(eg. Car class and Wheel class)
+2. Uniform initialization synstax 
+3. Constructor delegation
+4. Using keyword (used to make alias)
+
+
+
+Notes:
+1. Inheritance is mainly used for generalizationand specialization(extending type, creating child class etc).
+2. Aggregation is similar to Composition. Difference is that in composition inner object has to be destroyed 
+   when outer object get destroyed but in case of aggregation inner object still exsist though outer object get destroyed
+3. Polymorphism is doing something in many ways
+4. Encapsulation is hiding internal representation of the object
+5. Abstraction is hiding internal functionality from outside world
+
+---------------------------------------------------------------------------------------
+Day4:
+
+1. Override keyword
+2. Use static_cast<type>( ) in case of enum class when overloading << operator 
+3. lvalue(something which has storage and have given name) and rvalue(temporary things)
+4. auto keyword is used to guese the data type of variable based on initialization value
+
+
+Notes:
+1. lvalues and rvalues have been reviesed
+2. Pointers semantics are discouraged
+3. temporaries(rvalues) have lifetime till semicolon
+
+---------------------------------------------------------------------------------------
+Day5:
+
+1. noexcept keyword used to specify whether function will throw exception or not.
+2. final keyword - class can't be extended if 'final' is used with class declaration.
+3. RVO(return value optimizaion)
+
+
+
+---------------------------------------------------------------------------------------
+Day6:
+1. SOLID princples
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,2 @@
+void countPizzas(int Budget);
+

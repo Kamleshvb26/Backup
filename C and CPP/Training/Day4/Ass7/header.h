@@ -1,0 +1,1 @@
+void areaAndPerimeter(int ,float *, float *);

@@ -1,0 +1,15 @@
+Youtube Channels 
+
+1. mike shah
+2. cppcon     (watch back to basics, templates )
+3. distrotube (command line , )
+4. LearnLinuxTv 
+
+--------------------------------------------------------------------------------------
+
+Websites 
+
+1. cppreference.com
+2. thisptr.com
+3. nextptr.com
+

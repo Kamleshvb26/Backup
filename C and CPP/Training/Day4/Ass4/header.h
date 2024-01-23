@@ -1,0 +1,1 @@
+int checkTrianleType(int ,int , int);
